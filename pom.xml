@@ -12,8 +12,8 @@
   
     <scm>
         <url>https://github.com/chandrakalar/chandra_1/</url>
-        <connection>scm:git:git://github.com/chandrakalar/chandra_1.git</connection>
-        <developerConnection>scm:git:git://github.com/chandrakalar/chandra_1.git</developerConnection>
+        <connection>scm:git:git://github.com/chandrakalar/chandra_2.git</connection>
+        <developerConnection>scm:git:git://github.com/chandrakalar/chandra_2.git</developerConnection>
     </scm>
   
    
